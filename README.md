@@ -24,5 +24,5 @@
 You can install using pip:
 
 ```bash
-pip install git+https://github.git/Tsunami43/solana-fm.git
+pip install git+https://github.com/Tsunami43/solana-fm.git
 ```
